@@ -31,6 +31,8 @@
 </template>
 
 <script>
+import swal from 'sweetalert';
+import axios from 'axios';
 export default {
   name: 'EditCategory',
   props: {

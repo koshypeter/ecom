@@ -23,6 +23,7 @@
 
 <script>
 import axios from 'axios';
+import swal from 'sweetalert';
 import ImageBox from '../../components/Image/ImageBox.vue';
 
 export default {

@@ -22,8 +22,9 @@
 </template>
 
 <script>
+
 export default {
-  name: "Footer",
+  name: "AppFooter",
   data() {
     return {
       footerSections: [

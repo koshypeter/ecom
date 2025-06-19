@@ -51,7 +51,7 @@ import ProductBox from "../components/Product/ProductBox.vue";
 import CategoryBox from "../components/Category/CategoryBox.vue";
 
 export default {
-  name: "Home",
+  name: "HomeView",
   components: {
     ProductBox,
     CategoryBox
