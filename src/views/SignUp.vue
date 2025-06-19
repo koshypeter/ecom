@@ -70,7 +70,7 @@
 import swal from 'sweetalert';
 import axios from 'axios';
 export default {
-  name: "Signup",
+  name: "SignupView",
   props: {
     baseURL: {
       type: String,

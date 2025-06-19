@@ -29,7 +29,7 @@
 import CategoryBox from '../../components/Category/CategoryBox.vue';
 
 export default {
-  name: 'Category',
+  name: 'CategoryView',
   components: {
     CategoryBox
   },

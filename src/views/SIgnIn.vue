@@ -54,7 +54,7 @@
 import swal from 'sweetalert';
 import axios from 'axios';
 export default {
-  name: "Signin",
+  name: "SigninView",
   props: {
     baseURL: {
       type: String,

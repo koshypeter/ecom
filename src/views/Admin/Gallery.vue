@@ -27,7 +27,7 @@ import swal from 'sweetalert';
 import ImageBox from '../../components/Image/ImageBox.vue';
 
 export default {
-  name: 'Gallery',
+  name: 'GalleryView',
   components: {
     ImageBox
   },
